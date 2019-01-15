@@ -1,0 +1,15 @@
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\bin\Debug\PizzaServiceWPF.exe
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\bin\Debug\PizzaServiceWPF.exe.config
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.csprojAssemblyReference.cache
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\MainWindow.baml
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\MainWindow.g.cs
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\App.g.cs
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF_MarkupCompile.cache
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF_MarkupCompile.lref
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.g.resources
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.Properties.Resources.resources
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.csproj.GenerateResource.cache
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.csproj.CoreCompileInputs.cache
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.exe
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\obj\Debug\PizzaServiceWPF.pdb
+C:\Users\raczaK\Documents\Studia\Systemy dialogowe\Lab-WPF\PizzaServiceWPF\PizzaServiceWPF\bin\Debug\PizzaServiceWPF.pdb
